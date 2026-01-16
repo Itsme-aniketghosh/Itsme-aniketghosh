@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:00FF88,100:00AAFF&height=180&section=header&text=Aniket%20Ghosh&fontSize=45&fontColor=FAFAFA&animation=fadeIn&fontAlignY=35"/>
 
-### MS AI @ Northeastern • NLP Teaching Assistant • Multi-Agent Systems Builder
+### MS AI @ Northeastern • NLP Teaching Assistant • Learner
 
 <br>
 
@@ -17,8 +17,6 @@
 ### 👋 Hey there!
 
 I'm a first-year **MS in Artificial Intelligence** student at **Northeastern University's Khoury College** (Fall 2025), focusing on Machine Learning. Currently **TAing the graduate NLP course** under Prof. Amir Tahmasebi and sitting in on a **PhD-level Interpretable AI seminar**.
-
-My path into AI started with contrasts — traveling through cities like Chicago, Bonn, and Zurich with my dad (SAP consultant at IBM), while spending **7 years teaching math and CS** to underprivileged students back home in Kolkata. That gap between what technology can do and who it actually reaches is what I'm trying to fix.
 
 ---
 
